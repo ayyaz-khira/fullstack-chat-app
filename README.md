@@ -1,41 +1,41 @@
-# Chatty : Full-Stack Chat App with Socket.IO & Cloudinary
+# Chatty — Full-Stack Chat App with Socket.IO & Cloudinary
 
-A real-time chat application built using the MERN stack (MongoDB, Express, React, Node.js), Socket.IO for live messaging, and Cloudinary for image uploads.
+A real-time chat application built using the **MERN stack** (MongoDB, Express, React, Node.js), **Socket.IO** for live messaging, and **Cloudinary** for image uploads.
 
-# Live Demo : https://fullstack-chat-app-e46e.onrender.com
+🔗 **Live Demo:** [https://fullstack-chat-app-e46e.onrender.com](https://fullstack-chat-app-e46e.onrender.com)
 
-Features:
+---
 
-1)Real-time messaging with Socket.IO.
+## ✨ Features
 
-2)JWT Authentication for secure user login.
+- ✅ Real-time messaging with **Socket.IO**
+- ✅ **JWT Authentication** for secure user login
+- ✅ **Cloudinary** integration for image uploads
+- ✅ **User presence tracking** (online/offline status)
+- ✅ **Elegant & responsive UI** with **DaisyUI**
+- ✅ **Global state management** using **Zustand**
 
-3)Cloudinary integration for image uploads.
+---
 
-4)User presence (online/offline status).
+## 🧱 Tech Stack
 
-5)DaisyUI for an elegant, responsive UI.
+### 🔹 Frontend
+- React
+- Tailwind CSS
+- DaisyUI
 
-6)Global State Management with Zustand.
+### 🔹 Backend
+- Node.js
+- Express.js
 
+### 🔹 Database
+- MongoDB
 
-Tech Stack :
+### 🔹 Real-Time Communication
+- Socket.IO
 
-Frontend: React, DaisyUI, Tailwind CSS
+### 🔹 Authentication
+- JWT (JSON Web Token)
 
-Backend: Node.js, Express.js
-
-Database: MongoDB
-
-Real-Time Communication: Socket.IO
-
-Authentication: JWT
-
-File Uploads: Cloudinary
-
-
-
-
-
-
-
+### 🔹 File Uploads
+- Cloudinary
